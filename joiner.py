@@ -22,4 +22,4 @@ print(fileOneData)
 print(fileTwoData)
 
 # Example of doing our 'join' -  data for player from sheet one and two
-print("Joined data for Aaron Nola: " + "wins - " + fileOneData[2] + " ERA - " + fileTwoData[4])
+print("Joined data for Aaron Nola: " + "wins - " + fileOneData[2] + " K/BB - " + fileTwoData[4])
